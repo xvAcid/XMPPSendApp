@@ -2,8 +2,8 @@
 test app for connect and send message by XMPP protocol
 
 # Used libs:
-XMPPFramework - https://github.com/robbiehanson/XMPPFramework
-MBProgressHUD - https://github.com/jdg/MBProgressHUD
+	1. XMPPFramework - https://github.com/robbiehanson/XMPPFramework
+	2. MBProgressHUD - https://github.com/jdg/MBProgressHUD
 
 # How to build app:
 1. if you have not installed cocoapods then open terminal and execute "$ sudo gem install cocoapods" else read next
